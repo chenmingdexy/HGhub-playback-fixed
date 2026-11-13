@@ -1,0 +1,2 @@
+f76c890c428b3e051a5af049ac5741cf20cfa9dea058e99f2bcd9c3727f7b6d2  HGhub-1.2.0-arm64-fixed.apk
+0488fc361c3a4cb5e937d2c4de6386b246f19b2b7b4228017ffe14f10df996fa  HGhub-1.2.0-playback-fixed.exe
